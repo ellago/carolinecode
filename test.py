@@ -12,7 +12,7 @@ print('num test')
 '''1-100质数'''
 def primenumber():
     print("test git~")
-    print("test000004")
+    print("test000005")
     for num in range(1,100):
         for i in range(2,num):
             if (num%i ==0):
